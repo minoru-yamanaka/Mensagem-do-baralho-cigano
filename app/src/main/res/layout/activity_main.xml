@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- minoruyamanaka RGM: 31095976-->
+<!-- Usando um layout linear com orientação vertical e alinhamento central -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+
+
+    android:gravity="center"
+    android:background="#FFFFFF"
+    tools:context="com.example.cidi.MainActivity">
+
+    <!-- Adicione um espaço em branco flexível para centralizar verticalmente -->
+
+    <!-- ImageView para exibir imagens associadas a frases -->
+
+    <!-- TextView para exibir o título -->
+    <TextView
+        android:id="@+id/textTitulo"
+
+        android:layout_height="wrap_content"
+        android:layout_width="360dp"
+        android:padding="10dp"
+        android:text="Mensagem do baralho cigano para você!"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <!-- TextView para exibir a frase -->
+    <ImageView
+        android:id="@+id/imagemFrase"
+        android:layout_width="183dp"
+        android:layout_height="241dp"
+        android:src="@drawable/index" />
+
+
+    <TextView
+        android:id="@+id/textFrase"
+        android:layout_width="360dp"
+        android:layout_height="350dp"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:scrollbars="vertical"/>
+
+    <!-- Botão para mudar a frase -->
+
+    <!-- Adicione outro espaço flexível para centralizar verticalmente -->
+    <Button
+        android:id="@+id/mudarFrase"
+        android:layout_width="350dp"
+        android:layout_height="63dp"
+        android:backgroundTint="#993399"
+        android:gravity="center"
+        android:onClick="mudarFrase"
+        android:text="Aperte aqui e receba sua mensagem"
+        android:textSize="18dp"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/textAuthor"
+
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:padding="05dp"
+        android:text="by Minoru Yamanaka for Profº.Cidi"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
