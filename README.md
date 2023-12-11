@@ -31,3 +31,15 @@ Este código é uma implementação de uma aplicação Android simples que exibe
 Este código é específico para o ambiente de desenvolvimento Android usando a linguagem Java e o framework Android SDK. Ele cria uma aplicação básica para fornecer informações sobre cartas de tarô de forma interativa.
 
 ![baralhohome](imgHome.png)
+---
+### Dedicação ao [Mestre Cidi](linkedin.com/in/cidrandrade) !🌟
+
+Nossa jornada pelo mundo mágico da programação de dispositivos móveis foi tão empolgante quanto uma leitura de tarô! 📱✨ Com alegria e alguns bugs pelo caminho, Desenvolvi o aplicativo "Mensagem do Baralho Cigano".
+
+Cada linha de código é uma carta do nosso aprendizado, e cada bug resolvido é uma vitória conquistada! Agradeço por sua orientação sábia e paciência interminável.
+
+Espero que, assim como as cartas do tarô, este app traga uma pitada de curiosidade e diversão. Obrigado por tornar o aprendizado uma experiência única!
+
+Com carinho e emojis programáveis,
+Minoru, o aprendiz de feitiçeiro 🚀🔮
+
