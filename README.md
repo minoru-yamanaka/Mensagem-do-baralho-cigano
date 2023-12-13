@@ -43,3 +43,4 @@ Espero que, assim como as cartas do tarô, este app traga uma pitada de curiosid
 Com carinho e emojis programáveis,
 Minoru, o aprendiz de feitiçeiro 🚀🔮
 
+[Post no Linkedin](https://www.linkedin.com/posts/minoru-yamanaka-2272a6243_mobileapplications-programing-technology-activity-7140012152844709888-cwt_?utm_source=share&utm_medium=member_desktop)
